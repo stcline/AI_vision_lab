@@ -6,4 +6,5 @@ Before you begin running your camera, you need to prepare the Pi:
   `sudo apt install imx500-all`
 3. Clone this repository
 4. Create an authentication token
-5. Cache your credentials
+6. Cache your credentials
+  `git config --global credential.helper cache`
