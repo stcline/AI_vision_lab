@@ -1,6 +1,7 @@
 # AI Vision Lab
 ----
 ## Equipment Needed
+Raspberry Pi 5 with at least 8GB memory
 
 
 ## Prerequisites
