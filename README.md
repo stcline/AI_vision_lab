@@ -2,7 +2,7 @@
 ----
 ## Equipment Needed
 Raspberry Pi 5 with at least 8GB memory
-
+Power Supply
 
 ## Prerequisites
 - Using the CLI
