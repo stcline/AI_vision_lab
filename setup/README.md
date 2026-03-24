@@ -7,4 +7,4 @@ Before you begin running your camera, you need to prepare the Pi:
 3. Clone this repository
 4. Create an authentication token
 6. Cache your credentials
-  `git config --global credential.helper cache`
+  `sudo git config --global credential.helper cache`
