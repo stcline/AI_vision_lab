@@ -1,6 +1,6 @@
 # AI Vision Lab
 ----
-## Equipment
+## Equipment Needed
 
 
 ## Prerequisites
