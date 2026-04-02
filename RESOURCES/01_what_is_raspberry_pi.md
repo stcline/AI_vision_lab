@@ -1,3 +1,5 @@
+![pi_banner](RESOURCES/pi_banner.png)
+
 # What Is a Raspberry Pi?
 
 The Raspberry Pi is a small, affordable computer that can run a full operating system, connect to cameras and sensors, and support coding, electronics, and AI projects.
