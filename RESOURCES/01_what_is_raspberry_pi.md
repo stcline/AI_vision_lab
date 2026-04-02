@@ -1,4 +1,4 @@
-![pi_banner](RESOURCES/pi_banner.png)
+![pi_banner](pi_banner.png)
 
 # What Is a Raspberry Pi?
 
