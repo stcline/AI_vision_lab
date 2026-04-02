@@ -1,3 +1,5 @@
+![banner](RESOURCES/banner.png)
+
 # AI Vision Lab :robot:
 
 A teacher-friendly resource for introducing AI vision systems into secondary classrooms using Raspberry Pi.
