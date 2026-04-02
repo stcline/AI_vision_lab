@@ -10,6 +10,7 @@ This repository is designed for both beginners and experienced instructors. It i
 - [Package Management on Raspberry Pi](RESOURCES/03_package_management.md)
 - [Using SSH from a Chromebook](RESOURCES/04_chromebook_ssh_setup.md)
 - [AI Vision Basics](RESOURCES/05_ai_vision_basics.md)
+- AI Vision in Depth
 - [Student Project Ideas](RESOURCES/06_project_ideas.md)
 
 ## What This Repo Covers :bulb:
