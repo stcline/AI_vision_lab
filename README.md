@@ -9,11 +9,11 @@ This repository is designed for both beginners and experienced instructors. It i
 
 ## Start Here
 - [What is a Raspberry Pi?](RESOURCES/01_what_is_raspberry_pi.md)
-- [Equipment and Classroom Setup](02_equipment_and_setup.md)
-- [Package Management on Raspberry Pi](03_package_management.md)
-- [Using SSH from a Chromebook](04_chromebook_ssh_setup.md)
-- [AI Vision Basics](05_ai_vision_basics.md)
-- [Student Project Ideas](06_project_ideas.md)
+- [Equipment and Classroom Setup](RESOURCES/02_equipment_and_setup.md)
+- [Package Management on Raspberry Pi](RESOURCES/03_package_management.md)
+- [Using SSH from a Chromebook](RESOURCES/04_chromebook_ssh_setup.md)
+- [AI Vision Basics](RESOURCES/05_ai_vision_basics.md)
+- [Student Project Ideas](RESOURCES/06_project_ideas.md)
 
 ## What This Repo Covers
 - Raspberry Pi background and classroom use
