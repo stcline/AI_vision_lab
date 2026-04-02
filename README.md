@@ -8,7 +8,7 @@ A teacher-friendly resource for introducing AI vision systems into secondary cla
 This repository is designed for both beginners and experienced instructors. It includes background information, hardware/setup guidance, Chromebook SSH access, AI vision concept overviews, and project ideas for student use.
 
 ## Start Here
-- [What is a Raspberry Pi?](01_what_is_raspberry_pi.md)
+- [What is a Raspberry Pi?](RESOURCES/01_what_is_raspberry_pi.md)
 - [Equipment and Classroom Setup](02_equipment_and_setup.md)
 - [Package Management on Raspberry Pi](03_package_management.md)
 - [Using SSH from a Chromebook](04_chromebook_ssh_setup.md)
